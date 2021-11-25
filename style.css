@@ -19,12 +19,12 @@ a {
 }
 
 a:hover{
-  color: rgb(80, 80, 80);
+  color: rgb(186, 186, 186);
 }
 
 .flex-container {
   display: flex;
-  background-color: #0d3103;
+  background-color: #87CEFA;
   flex-direction: row;
   height: 45px;
   align-items: center;
