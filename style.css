@@ -15,7 +15,6 @@ body {
 
 .flex-container {
   display: flex;
-  background-color: #8a9ae4;
   flex-direction: row;
   height: 45px;
   align-items: center;
