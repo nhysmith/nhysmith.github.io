@@ -1,10 +1,9 @@
 html {
   background-image: linear-gradient(to bottom right, white , #8a9ae4);
-  background-repeat: no-repeat;
   background-size: cover;
   padding: 0px;
   margin: 0px;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 body {
@@ -16,20 +15,28 @@ img {
   display: inline-block;
   width: auto;
   height: auto;
-  max-width: 25%;
-  max-height: 50%;
+  max-width: 15%;
+  max-height: 25%;
 }
-a:link, a:visited {
-  background-color: #f44336;
+
+h1 {
+	color: #293EA1;
+}
+.ttl{
+	font-size: 30px;
+}
+.btn:link, .btn:visited {
+  background-color: #4559B5;
   color: white;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  
 }
 
-a:hover, a:active {
-  background-color: red;
+.btn:hover, a:active {
+  background-color: #6476C9;
 }
 .center {
   display: block;
