@@ -15,8 +15,8 @@ img {
   display: inline-block;
   width: auto;
   height: auto;
-  max-width: 1080px;
-  max-height: 2280px;
+  max-width: 500px;
+  max-height: 1080px;
 }
 
 .center {
