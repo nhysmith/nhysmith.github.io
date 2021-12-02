@@ -13,8 +13,8 @@ body {
 
 img {
   display: inline-block;
-  width: 1080;
-  height: 2280;
+  width: 1080px;
+  height: 2280px;
 }
 
 .flex-container {
